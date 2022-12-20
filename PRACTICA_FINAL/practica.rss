@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>Tutoriales y comparativas</title>
+<link>https://pedromb04.github.io/proyecto/</link>
+<description>Tutoriales sobre diferentes software útil para un equipo informático además de adjuntas comparativas para decantarnos por una opción u otra</description>
+<pubDate>Fri, 9 Dec 2022 23:59:59 +0000</pubDate>
+<generator>https://pedromb04.github.io/proyecto/</generator>
+	<item>
+		<title>Ofimática En Windows</title>
+		<link>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/ofimatica-w.html</link>
+		<description>Tutorial para instalar el paquete ofimático OpenOffice en Windows</description>
+		<pubDate>Fri, 9 Dec 2022 23:59:59 +0000</pubDate>
+		<author>mobrpe_aliesma20@iesmedinaazahara.es</author>
+	</item>
+	<item>
+		<title>Ofimática En Linux</title>
+		<link>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/ofimatica-l.html</link>
+		<description>Tutorial para instalar el paquete ofimático LibreOffice en Linux</description>
+		<pubDate>Fri, 9 Dec 2022 23:59:59 +0000</pubDate>
+		<author>mobrpe_aliesma20@iesmedinaazahara.es</author>
+	</item>
+	<item>
+		<title>Copias de Seguridad En Windows</title>
+		<link>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/seguridad-w.html</link>
+		<description>Tutorial para instalar el paquete de recuperación y copia de seguidad Disk Recovery en Windows</description>
+		<pubDate>Fri, 9 Dec 2022 23:59:59 +0000</pubDate>
+		<author>mobrpe_aliesma20@iesmedinaazahara.es</author>
+	</item>
+	<item>
+		<title>Copias de Seguridad En Linux</title>
+		<link>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/seguridad-l.html</link>
+		<description>Tutorial para instalar el paquete de recuperación y copia de seguidad Deja Dup en Linux</description>
+		<pubDate>Fri, 9 Dec 2022 23:59:59 +0000</pubDate>
+		<author>mobrpe_aliesma20@iesmedinaazahara.es</author>
+	</item>
+	<item>
+		<title>Antivirus En Windows</title>
+		<link>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/security-w.html</link>
+		<description>Tutorial para instalar el paquete antivirus AVAST en Windows</description>
+		<pubDate>Fri, 9 Dec 2022 23:59:59 +0000</pubDate>
+		<author>mobrpe_aliesma20@iesmedinaazahara.es</author>
+	</item>
+	<item>
+		<title>Antivirus En Linux</title>
+		<link>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/security-l.html</link>
+		<description>Tutorial para instalar el paquete antivirus Dr.Web en Linux</description>
+		<pubDate>Fri, 9 Dec 2022 23:59:59 +0000</pubDate>
+		<author>mobrpe_aliesma20@iesmedinaazahara.es</author>
+	</item>
+	<item>
+		<title>Aplicaciones Portable En Windows</title>
+		<link>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/portable-w.html</link>
+		<description>Tutorial para instalar la aplicación Portable del editos de imágenes GIMP en Windows</description>
+		<pubDate>Fri, 9 Dec 2022 23:59:59 +0000</pubDate>
+		<author>mobrpe_aliesma20@iesmedinaazahara.es</author>
+	</item>
+	<item>
+		<title>Aplicaciones Portable En Windows</title>
+		<link>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/portable-l.html</link>
+		<description>Tutorial para instalar la aplicación Portable de Opera en Linux</description>
+		<pubDate>Fri, 9 Dec 2022 23:59:59 +0000</pubDate>
+		<author>mobrpe_aliesma20@iesmedinaazahara.es</author>
+	</item>
+</channel>
+</rss>
