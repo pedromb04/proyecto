@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xml:lang="es">
+	<title>Tutoriales y comparativas</title>
+	<link href="https://pedromb04.github.io/proyecto/index.html"/>
+	<id>https://pedromb04.github.io/proyecto/index.html</id>
+ 	<updated>2022-12-09T15:00:00Z</updated>
+<entry>
+	<title>Ofimática-Windows</title>
+	<id>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/ofimatica-w.html</id>
+	<updated>2022-12-09T15:00:00Z</updated>
+	<link href="https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/ofimatica-w.html"/>
+
+	<author>
+		<name>Pedro Inocencio Moraleda Bretones</name>
+		<email>mobrpe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+</entry>
+<entry>
+	<title>Ofimática-Linux</title>
+	<id>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/linux/ofimatica-l.html</id>
+	<updated>2022-12-09T15:00:00Z</updated>
+	<link href="https://pedromb04.github.io/proyecto/PRACTICA_FINAL/linux/ofimatica-l.html"/>
+
+	<author>
+		<name>Pedro Inocencio Moraleda Bretones</name>
+		<email>mobrpe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+</entry>
+<entry>
+	<title>Copias de seguridad-Windows</title>
+	<id>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/seguridad-w.html</id>
+	<updated>2022-12-09T15:00:00Z</updated>
+	<link href="https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/seguridad-w.html"/>
+
+	<author>
+		<name>Pedro Inocencio Moraleda Bretones</name>
+		<email>mobrpe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+</entry>
+<entry>
+	<title>Copias de seguridad-Linux</title>
+	<id>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/linux/seguridad-l.html</id>
+	<updated>2022-12-09T15:00:00Z</updated>
+	<link href="https://pedromb04.github.io/proyecto/PRACTICA_FINAL/linux/seguridad-l.html"/>
+
+	<author>
+		<name>Pedro Inocencio Moraleda Bretones</name>
+		<email>mobrpe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+</entry>
+<entry>
+	<title>Copias de seguridad-Windows</title>
+	<id>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/seguridad-w.html</id>
+	<updated>2022-12-09T15:00:00Z</updated>
+	<link href="https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/seguridad-w.html"/>
+
+	<author>
+		<name>Pedro Inocencio Moraleda Bretones</name>
+		<email>mobrpe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+</entry>
+
+<entry>
+	<title>Antivirus-Windows</title>
+	<id>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/security-w.html</id>
+	<updated>2022-12-09T15:00:00Z</updated>
+	<link href="https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/security-w.html"/>
+
+	<author>
+		<name>Pedro Inocencio Moraleda Bretones</name>
+		<email>mobrpe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+</entry>
+
+<entry>
+	<title>Antivirus-Linux</title>
+	<id>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/linux/security-l.html</id>
+	<updated>2022-12-09T15:00:00Z</updated>
+	<link href="https://pedromb04.github.io/proyecto/PRACTICA_FINAL/linux/security-l.html"/>
+
+	<author>
+		<name>Pedro Inocencio Moraleda Bretones</name>
+		<email>mobrpe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+</entry>
+
+<entry>
+	<title>Portable-Linux</title>
+	<id>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/linux/portable-l.html</id>
+	<updated>2022-12-09T15:00:00Z</updated>
+	<link href="https://pedromb04.github.io/proyecto/PRACTICA_FINAL/linux/portable-l.html"/>
+
+	<author>
+		<name>Pedro Inocencio Moraleda Bretones</name>
+		<email>mobrpe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+</entry>
+
+<entry>
+	<title>Portable-Windows</title>
+	<id>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/portable-w.html</id>
+	<updated>2022-12-09T15:00:00Z</updated>
+	<link href="https://pedromb04.github.io/proyecto/PRACTICA_FINAL/windows/portable-w.html"/>
+
+	<author>
+		<name>Pedro Inocencio Moraleda Bretones</name>
+		<email>mobrpe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+</entry>
+
+<entry>
+	<title>Comparativas Antivirus</title>
+	<id>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/comparativas/comparativas_antivirus.html</id>
+	<updated>2022-12-09T15:00:00Z</updated>
+	<link href="https://pedromb04.github.io/proyecto/PRACTICA_FINAL/comparativas/comparativas_antivirus.html"/>
+
+	<author>
+		<name>Pedro Inocencio Moraleda Bretones</name>
+		<email>mobrpe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+</entry>
+
+<entry>
+	<title>Comparativas Ofimática</title>
+	<id>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/comparativas/comparativas.html</id>
+	<updated>2022-12-09T15:00:00Z</updated>
+	<link href="https://pedromb04.github.io/proyecto/PRACTICA_FINAL/comparativas/comparativas.html"/>
+
+	<author>
+		<name>Pedro Inocencio Moraleda Bretones</name>
+		<email>mobrpe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+</entry>
+
+<entry>
+	<title>Comparativas Ofimática</title>
+	<id>https://pedromb04.github.io/proyecto/PRACTICA_FINAL/comparativas/comparativas_portable.html</id>
+	<updated>2022-12-09T15:00:00Z</updated>
+	<link href="https://pedromb04.github.io/proyecto/PRACTICA_FINAL/comparativas/comparativas_portable.html"/>
+
+	<author>
+		<name>Pedro Inocencio Moraleda Bretones</name>
+		<email>mobrpe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+</entry>
+</feed>
